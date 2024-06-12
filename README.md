@@ -5,6 +5,13 @@ Welcome to the repository for Open Source Antibiotics (OSA) focusing on our firs
 ## Project Overview
 Our starting point is a series of quinazoline-2,4-dione derivatives, initially identified as inhibitors of bacterial Mur ligases. You can find the data for the Bacterial Mur Ligase Project in this [Repository](https://github.com/opensourceantibiotics/murligase). Inspired by promising initial data, [Dr. Guilherme Fernandes](https://www.linkedin.com/in/guifelipefernandes/) joined the team with a postdoctoral fellowship to advance the development of these compounds for TB treatment.
 
+## People involved in this project
+Professor Matthew Todd, University College London  
+Dr Guilherme Fernandes, University College London  
+Professor Christopher Dowson, University of Warwick  
+Dr Adrian Lloyd, University of Warwick  
+Dr Laura Diaz-Saez, University of Warwick  
+
 ## Open Source Collaboration
 This is an open-source project, meaning all data, findings, and methodologies are shared openly. We invite you to join us as a full participant. To understand what being part of an open-source project entails, please visit the [Open Source Tuberculosis repository page](https://github.com/OpenSourceTB/OSTB_General_Start_Here) or read this [paper](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cmdc.201900565) outlining the general principles.
 
